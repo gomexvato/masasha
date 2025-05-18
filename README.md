@@ -22,12 +22,13 @@ You would need to the following from your computer:
 ```sh
 xcode-select --install
 ```
-- Verify that you have 'git' installed in your terminal
+- Verify that you have `git` installed in your terminal
 ```sh
 git
 ```
 
-Looks like a lot of stuff but this is only needed the first time.
+It seems like a lot of stuff, but all of this is only needed once
+
 
 ## 🦸 coolness
 
@@ -37,6 +38,7 @@ Maybe this could help you organize and keep track of your things.
 
 <p>
   <img src="assets/holy.png" width="100" title="love you my sasha"/>
+  
 </p>
 
 

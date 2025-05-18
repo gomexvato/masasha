@@ -70,12 +70,27 @@ It might be helpful for you to keep track of your things and to organize them.
 
 
 <details>
-
-<summary>General Links</summary>
-
-![Wordtune](https://wordtune.com)
-
+<summary>⚡️ General Links</summary>
+<br />
+[Wordtune](https://wordtune.com)
 </details>
+
+
+<details>
+<summary>⚡️ YouTube Videos</summary>
+<br />
+[Charlie Monger](https://www.youtube.com/watch?v=S15XpqbUFFA)
+[David Brooks](https://www.youtube.com/watch?si=HCG_vtRDNBpgzk8U&v=-JRSLhClyvw&feature=youtu.be)
+[How to write well](https://www.youtube.com/watch?v=FtkSjed0Ymc)
+</details>
+
+
+<details>
+<summary>⚡️ Articles</summary>
+<br />
+[Raging Rooks](https://chessintheschools.org/the-incredible-story-of-the-8-kids-harlem-chess-players/)
+</details>
+
 
 
 Stay tuned for more.

@@ -41,12 +41,12 @@ xcode-select --install
 git
 ```
 
-It seems like a lot of stuff, but all of this is only needed once
+It seems like a lot of stuff, but all of this is only needed once.
 
 
 ## 🦸 coolness
 
-It might be helpful for you to keep track of your things and to organize them
+It might be helpful for you to keep track of your things and to organize them.
 
 ## 🚀 possibilities
 
@@ -63,7 +63,6 @@ It might be helpful for you to keep track of your things and to organize them
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The woman who rented her garage to Larry Page and Sergey Brin in 1998 when they were creating Google later became the CEO of YouTube.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

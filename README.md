@@ -38,11 +38,11 @@ Maybe this could help you organize and keep track of your things.
 
 <p>
   <img src="assets/holy.png" width="100" title="love you my sasha"/>
-
+  <img src="assets/icon.svg" width="100" title="love you my sasha"/>
 </p>
 
 
-![icon](assets/icon.svg|100)
+<!-- ![icon](assets/icon.svg|100) -->
 
 
 Stay tuned for more.

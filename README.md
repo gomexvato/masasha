@@ -1,3 +1,17 @@
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
+
 ## 👋 hello sasha
 
 This repository is to teach you how to create your own content.
@@ -38,7 +52,7 @@ Maybe this could help you organize and keep track of your things.
 
 <p>
   <img src="assets/holy.png" width="100" title="love you my sasha"/>
-  <img src="assets/icon.svg" width="100" title="love you my sasha"/>
+  <img src="assets/icon.svg" width="200" title="love you my sasha"/>
 </p>
 
 

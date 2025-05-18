@@ -46,17 +46,28 @@ It seems like a lot of stuff, but all of this is only needed once
 
 ## 🦸 coolness
 
-Maybe this could help you organize and keep track of your things.
+It might be helpful for you to keep track of your things and to organize them
 
 ## 🚀 possibilities
 
 <p>
   <img src="assets/holy.png" width="100" title="love you my sasha"/>
   <img src="assets/icon.svg" width="200" title="love you my sasha"/>
+  <img src="assets/cats.png" width="200" title="love you my sasha"/>
 </p>
 
 
 <!-- ![icon](assets/icon.svg|100) -->
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>The woman who rented her garage to Larry Page and Sergey Brin in 1998 when they were creating Google later became the CEO of YouTube.</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 
 Stay tuned for more.

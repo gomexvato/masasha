@@ -42,7 +42,7 @@ Maybe this could help you organize and keep track of your things.
 </p>
 
 
-![icon](assets/icon.svg|width=100)
+![icon](assets/icon.svg|100)
 
 
 Stay tuned for more.

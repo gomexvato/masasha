@@ -60,8 +60,8 @@ It might be helpful for you to keep track of your things and to organize them.
 
 <!-- ![icon](assets/icon.svg|100) -->
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<!--STARTS_HERE_QUOTE_README-->
+<!-- ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
@@ -71,24 +71,24 @@ It might be helpful for you to keep track of your things and to organize them.
 
 <details>
 <summary>⚡️ General Links</summary>
-<br />
 [Wordtune](https://wordtune.com)
 </details>
 
 
 <details>
 <summary>⚡️ YouTube Videos</summary>
-<br />
 [Charlie Monger](https://www.youtube.com/watch?v=S15XpqbUFFA)
+<br />
 [David Brooks](https://www.youtube.com/watch?si=HCG_vtRDNBpgzk8U&v=-JRSLhClyvw&feature=youtu.be)
+<br />
 [How to write well](https://www.youtube.com/watch?v=FtkSjed0Ymc)
 </details>
 
 
 <details>
 <summary>⚡️ Articles</summary>
-<br />
 [Raging Rooks](https://chessintheschools.org/the-incredible-story-of-the-8-kids-harlem-chess-players/)
+<br />
 </details>
 
 

@@ -68,4 +68,14 @@ It might be helpful for you to keep track of your things and to organize them.
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 
+
+<details>
+
+<summary>General Links</summary>
+
+![Wordtune](https://wordtune.com)
+
+</details>
+
+
 Stay tuned for more.

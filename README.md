@@ -52,8 +52,8 @@ It might be helpful for you to keep track of your things and to organize them.
 
 <p>
   <img src="assets/holy.png" width="100" title="love you my sasha"/>
-  <img src="assets/icon.svg" width="200" title="love you my sasha"/>
-  <img src="assets/cats.png" width="200" title="love you my sasha"/>
+  <!-- <img src="assets/icon.svg" width="200" title="love you my sasha"/> -->
+  <!-- <img src="assets/cats.png" width="200" title="love you my sasha"/> -->
   <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="200"/>
 </p>
 
@@ -64,16 +64,14 @@ It might be helpful for you to keep track of your things and to organize them.
 STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<!-- ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-
-
-
+ -->
+ 
 <details>
 <summary>⚡️ General Links</summary>
 [Wordtune](https://wordtune.com)
 </details>
-
 
 <details>
 <summary>⚡️ YouTube Videos</summary>
@@ -84,13 +82,11 @@ STARTS_HERE_QUOTE_README-->
 [How to write well](https://www.youtube.com/watch?v=FtkSjed0Ymc)
 </details>
 
-
 <details>
 <summary>⚡️ Articles</summary>
 [Raging Rooks](https://chessintheschools.org/the-incredible-story-of-the-8-kids-harlem-chess-players/)
 <br />
 </details>
-
 
 
 Stay tuned for more.

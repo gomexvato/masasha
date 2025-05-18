@@ -54,6 +54,7 @@ It might be helpful for you to keep track of your things and to organize them
   <img src="assets/holy.png" width="100" title="love you my sasha"/>
   <img src="assets/icon.svg" width="200" title="love you my sasha"/>
   <img src="assets/cats.png" width="200" title="love you my sasha"/>
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="200"/>
 </p>
 
 
